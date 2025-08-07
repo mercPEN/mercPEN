@@ -1,4 +1,4 @@
-# 👨‍💻 mercPEN — Developer of Advanced PEN Testing Tools & Full-Stack Systems
+# Developer of Advanced PEN Testing Tools & Full-Stack Systems
 
 Crafting elite tools for **penetration testing**, **network diagnostics**, and **cross-platform systems**. Passionate about cybersecurity, mobile development, and automation.
 
@@ -54,7 +54,7 @@ A minimalist control panel for managing remote payloads and services over encryp
 
 ## 📡 Networking & System Engineering
 
-I actively build and test scripts using **MikroTik RouterOS** for automating firewall rules, port knocking, and network discovery. You can find these in my [RouterOS Toolkit Repository](https://github.com/mercPEN/RouterOS-Toolkit).
+I actively build my own APP for PEN using **TypeScript & Python along with AS Narwhall** for automating firewall rules, port knocking, and network discovery. You can find this in my [MERCPEN - SYSTEMAPP ](https://github.com/mercPEN/app). For access Contact me (( Curently under-development ))
 
 ---
 
