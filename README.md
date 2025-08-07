@@ -29,7 +29,8 @@ I’m **mercPEN** — an independent developer and cybersecurity enthusiast. I s
 ## 📈 GitHub Stats
 
 ![mercPEN's GitHub Stats](https://github-readme-stats-ur3o5iaz3-mercpens-projects.vercel.app/api?username=mercPEN&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats-mercpen.vercel.app/api/top-langs/?username=mercPEN&layout=compact&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats-ur3o5iaz3-mercpens-projects.vercel.app/api/top-langs/?username=mercPEN&layout=compact&theme=tokyonight&count_private=true)
+
 
 ---
 
