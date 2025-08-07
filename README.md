@@ -1,12 +1,13 @@
 # Developer of Advanced PEN Testing Tools & Full-Stack Systems
 
-Crafting elite tools for **penetration testing**, **network diagnostics**, and **cross-platform systems**. Passionate about cybersecurity, mobile development, and automation.
+<p align="center">Crafting elite tools for **penetration testing**, **network diagnostics**, and **cross-platform systems**.<br>
+Passionate about cybersecurity, mobile development, and automation.</p>
 
 ---
-
 ## 🧠 About Me
 
-I’m **mercPEN** — an independent developer and cybersecurity enthusiast. I specialize in designing advanced **penetration testing tools**, system automation scripts, and mobile/web applications that bridge performance with security.
+An independent developer and cybersecurity enthusiast.<br>
+I specialize in designing advanced **penetration testing tools**, system automation scripts, and mobile/web applications that bridge performance with security.</p>
 
 - 🧰 **Tech Stack**:
   - **Languages**: TypeScript (TSX), JavaScript, Python, HTML, CSS
@@ -23,21 +24,7 @@ I’m **mercPEN** — an independent developer and cybersecurity enthusiast. I s
 
 - 🧩 **Tool Philosophy**:  
   _“Security tools should be sharp, lightweight, and user-transparent.”_
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-mercpen.vercel.app/api/top-langs/?username=mercPEN&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats-mercpen.vercel.app/api?username=mercPEN&show_icons=true&theme=tokyonight&count_private=true" alt="mercPEN GitHub Stats" />
-  <br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mercPEN&left_color=gray&right_color=crimson&left_text=Profile%20Views" alt="Profile Views" />
-</p>
-
-
-
+  
 ---
 
 ## 🚀 Featured Projects
@@ -52,25 +39,23 @@ Modular scanner integration (port scanning, MAC spoofing, device fingerprinting)
 Real-time system monitoring with flexible logging<br>
 Embedded payload management tools<br>
 Scriptable automation and task scheduling<br>
-Lightweight and cross-platform compatibility<br>
+Lightweight and cross-platform compatibility<br><br>
 ⚙️ Ideal for red-teamers, security analysts, and infrastructure testers who want complete control over their testing stack.<br>
-🔎 Enables detailed surveillance and exploitation of local Bluetooth environments.
-📶 A powerful wireless pentest suite that brings full control to the 2.4/5GHz battleground.
-💥 Ideal for precision testing in congested or enterprise wireless environments.
+🔎 Enables detailed surveillance and exploitation of local Bluetooth environments.<br>
+📶 A powerful wireless pentest suite that brings full control to the 2.4/5GHz battleground.<br>
+💥 Ideal for precision testing in congested or enterprise wireless environments.<br>
 
 ### 📱 [APP](https://github.com/mercPEN/APP)
-Android-based pentesting toolkit built with Android Studio Narwhal. Integrated scanner, hash toolkit, and payload generator.
-
-
-
-
-
+Android-based pentesting toolkit built with Android Studio Narwhal. Integrated scanner, hash toolkit, and payload generator.<br>
+Secure connection to systemAPP with tokens & hashes.
 
 ---
 
 ## 📡 Networking & System Engineering
 
-I actively build my own APP for PEN using **TypeScript & Python along with AS Narwhall** for automating firewall rules, port knocking, and network discovery. You can find this in my [MERCPEN - APP ](https://github.com/mercPEN/app). For access Contact me (( Curently under-development - private ))
+I actively build my own APP for PEN using **TypeScript & Python along with AS Narwhall** for automating firewall rules, port knocking, and network discovery.<br></br>
+You can find this in my **[MERCPEN - APP for systemAPP]**<br></br>
+(https://github.com/mercPEN/app). For access Contact me (( Curently under-development - private ))
 
 ---
 
@@ -87,17 +72,16 @@ I actively build my own APP for PEN using **TypeScript & Python along with AS Na
 
 ---
 
-> “Code is a weapon. I forge mine to expose the weak links in digital armor.” — mercPEN
-
-
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-mercpen.vercel.app/api/top-langs/?username=mercPEN&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats-mercpen.vercel.app/api?username=mercPEN&show_icons=true&theme=tokyonight&count_private=true" alt="mercPEN GitHub Stats" />
+  <br><br>
+
   <img src="https://github-profile-trophy.vercel.app/?username=mercPEN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mercPEN Trophies"/>
-</p>
-
-
-<p align="center">
-  <!-- Languages -->
+<br></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -107,5 +91,15 @@ I actively build my own APP for PEN using **TypeScript & Python along with AS Na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+<br></br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mercPEN&left_color=gray&right_color=crimson&left_text=Profile%20Views" alt="Profile Views" />
 </p>
+
+---
+
+> “Code is a weapon. I forge mine to expose the weak links in digital armor.” — mercPEN
+
+
+
+
 
