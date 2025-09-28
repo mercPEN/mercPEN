@@ -49,6 +49,44 @@ Lightweight and cross-platform compatibility<br><br>
 Android-based pentesting toolkit built with Android Studio Narwhal. Integrated scanner, hash toolkit, and payload generator.<br>
 Secure connection to systemAPP with tokens & hashes.
 
+## 🚀 Key Features
+
+### 🔄 **Intelligent Auto-Update System**
+- **GitHub-based distribution** with automatic version checking
+- **Zero-downtime updates** with seamless APK installation
+- **Rollback protection** with version validation
+- **Network-aware updates** with connectivity checks
+
+### 🔐 **Dual Authentication Architecture**
+- **Local Secure Storage**: PBKDF2-hashed credentials with salt
+- **GitHub OAuth Integration**: Authorization Code flow with PKCE support
+- **Encrypted SharedPreferences** for credential storage
+- **Build-time credential seeding** for enterprise deployment
+
+### 🌐 **Integrated Web Interface**
+- **WebView integration** with custom user agent
+- **JavaScript enabled** with DOM storage support
+- **Seamless navigation** between native and web components
+- **Token-based authentication** for web services
+
+### 🛡️ **Enterprise Security**
+- **AES-256-GCM encryption** for local data
+- **Constant-time comparison** for credential validation
+- **Secure token management** with automatic refresh
+- **Permission-based file access** with scoped storage
+
+## 🔐 Security Implementation
+
+### **Credential Storage**
+- **Encryption**: AES-256-GCM with hardware-backed keys
+- **Hashing**: PBKDF2-SHA256 with 20,000 iterations
+- **Salt Generation**: Cryptographically secure random bytes
+- **Storage**: AndroidX EncryptedSharedPreferences
+
+**⚡ Built with security, performance, and user experience in mind.**
+
+*MERCPEN - Where security meets simplicity.*
+
 ---
 
 ## 📡 Networking & System Engineering
