@@ -113,12 +113,13 @@ You can find this in my **[MERCPEN - APP for systemAPP]**<br></br>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mercpen.vercel.app/api/top-langs/?username=mercPEN&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-psi-ten-43.vercel.app/api/top-langs/?username=mercPEN&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats-mercpen.vercel.app/api?username=mercPEN&show_icons=true&theme=tokyonight&count_private=true" alt="mercPEN GitHub Stats" />
+  <img src="https://github-readme-stats-psi-ten-43.vercel.app/api?username=mercPEN&show_icons=true&theme=tokyonight&count_private=true" alt="mercPEN GitHub Stats" />
   <br><br>
-
   <img src="https://github-profile-trophy.vercel.app/?username=mercPEN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mercPEN Trophies"/>
+</p>
+
 <br></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
